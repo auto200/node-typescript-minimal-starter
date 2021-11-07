@@ -1,3 +1,3 @@
-1. npm i
-1. npm start
-1. npm run build
+1. yarn i
+1. yarn start
+1. yarn build
